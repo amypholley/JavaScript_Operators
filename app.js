@@ -25,10 +25,10 @@ let isPresent= true;
 let firstName = "Frodo";
 let lastName = "Baggins";
 
-num + str
-num + str2
-num + isPresent
-firstName + num
+console.log(um + str)
+console.log(num + str2)
+console.log(num + isPresent)
+console.log(firstName + num)
 
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
@@ -39,13 +39,13 @@ let str3 = "5";
 let str4 = "five";
 let isAwake = false;
 
-val == str3
-val === str3
-!isAwake
-("eleven" == str4 && val >= str3)
-(!isAwake || isAwake)
-0 == false
-0 === false
-0 != false
-0 !== false
+console.log(val == str3)
+console.log(val === str3)
+console.log(!isAwake)
+console.log("eleven" == str4 && val >= str3)
+console.log(!isAwake || isAwake)
+console.log(0 == false)
+console.log(0 === false)
+console.log(0 != false)
+console.log(0 !== false)
 
